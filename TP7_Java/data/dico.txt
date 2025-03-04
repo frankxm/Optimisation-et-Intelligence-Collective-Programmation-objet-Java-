@@ -1,0 +1,11 @@
+cochon	pig
+chien	dog
+femme	woman
+fille	girl
+zebre	zebra
+singe	monkey
+homme	man
+ane	donkey
+chevre	goat
+papillon	butterfly
+chat	cat
