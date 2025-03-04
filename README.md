@@ -1,4 +1,4 @@
-# Mini-Projet de Programmation Objet et Langage Java - TP 4-6
+# Mini-Projet de Programmation Objet et Langage Java 
 
 ## Objectif
 
@@ -108,3 +108,18 @@ run() : Exécute les itérations avec les comportements définis par la politiqu
 
 
 ## L'autre dossier enregistre les codes des autres sujets
+
+
+## Base de donnees et l'application java
+
+Ce projet visait à concevoir et mettre en œuvre une base de données en utilisant le langage SQL. Nous avons d'abord appris les concepts fondamentaux des bases de données, puis conçu le modèle relationnel avec UML. Après avoir établi la structure de la base, nous avons pratiqué le SQL avec SQLite pour réaliser des requêtes et manipuler les données.
+
+La dernière étape a consisté à intégrer la base de données avec une application Java, illustrant son utilisation dans une Interface Homme-Machine. L'objectif était de comprendre les principes de conception des bases de données et leur intégration dans des applications réelles.
+
+
+<p align="center">
+  <img src="images_demo/UML.png" alt="UML" width="100%">
+</p>
+<p align="center">
+  <img src="images_demo/Acquisition.png" alt="Acquisition des donnees" width="80%">
+</p>
